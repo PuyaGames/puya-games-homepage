@@ -1,5 +1,6 @@
 ---
 home: true
+title: Puya Games
 bgImage: https://file.zhtsu.cn/PGH-BG.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
 bgImageStyle:
