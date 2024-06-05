@@ -1,3 +1,3 @@
 # puya-games-homepage
 The homepage of Puya Games
-- Background: [VantaJS](https://github.com/tengbao/vanta)
+- Powered by [VitePress](https://vitepress.dev/)
